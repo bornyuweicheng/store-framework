@@ -21,7 +21,6 @@
     margin: 0 auto;
     padding: 0;
 }
-}
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
     background-color: white;
