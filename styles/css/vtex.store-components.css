@@ -16,7 +16,9 @@
     background-color: gray;
     border: transparent;
 }
-
+.infoCardContainerImage {
+    width: auto;
+}
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
     background-color: white;
