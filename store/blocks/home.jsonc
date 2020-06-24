@@ -6,9 +6,8 @@
   },
   "rich-text":{
     "prop":{
-      "text": "*Hello, World!*",
-      "textPosition": "RIGHT",
-      "font-weight": "bold"
+      "text": "**Hello, World!**",
+      "textPosition": "RIGHT" 
     }
   }
 }
