@@ -16,8 +16,11 @@
     background-color: gray;
     border: transparent;
 }
-.infoCardContainerImage {
-    width: auto;
+.infoCardImage {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
+}
 }
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
